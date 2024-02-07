@@ -1,10 +1,10 @@
 # Advanced Document Search and Retrieval System with RAG
 
-This GitHub repository showcases a cutting-edge document search and retrieval system leveraging Retrieval-Augmented Generation (RAG), developed using https://lightning.ai/. It intelligently queries and interacts with various documents, such as academic papers and legal documents.
+This GitHub repository showcases a cutting-edge document search and retrieval system leveraging Retrieval-Augmented Generation (RAG), developed using https://lightning.ai/. It intelligently queries and interacts with various documents, such as academic papers and legal documents. The cool part with this is you can add multiple different pdf's/papers and it will use all of them collectively to generate an intelligent and accurate response. 
 
 ## Project Overview
 
-Our system demonstrates AI's power to quickly sift through extensive documents, providing precise answers to user queries, significantly benefiting professionals by saving time and enhancing productivity.
+The system demonstrates AI's power to quickly sift through extensive documents, providing precise answers to user queries, significantly benefiting professionals by saving time and enhancing productivity.
 
 ## Key Features
 
