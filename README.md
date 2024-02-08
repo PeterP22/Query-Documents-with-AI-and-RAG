@@ -28,6 +28,8 @@ Generate embeddings for each chunk with `BAAI/bge-large-en-v1.5` and store them 
 ### Retrieval and Re-Ranking
 Retrieve and re-rank documents using `BAAI/bge-reranker-large` for the highest relevance.
 
+![Search Diagram](searchdiagram.png)
+
 ## Retrieval Pipeline
 This system allows users to query documents and receive the most relevant chunk, aiming to connect a Large Language Model (LLM) for conversational exchanges.
 
