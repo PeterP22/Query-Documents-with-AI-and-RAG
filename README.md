@@ -14,6 +14,7 @@ The system demonstrates AI's power to quickly sift through extensive documents, 
 - **Comprehensive AI Integration**: Combines `LangChainAI` for seamless operation across components.
 
 ## Detailed Workflow
+![High Level Architecture](highlevelarchitecture.png)
 
 ### Document Loader
 Load documents in various formats, utilizing `unstructured.io` integration with `Langchain` for high-quality preprocessing.
